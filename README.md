@@ -46,6 +46,15 @@ enabling researchers, policymakers, and the public to effectively explore and ut
    NEXT_PUBLIC_MAPBOX_TOKEN=pk.eyJ1IjoiaGFzc2FuMjMwNSIsImEiOiJjbTduZWxuamMwMGYzMnhzNWdjemF2bWd5In0.SQq7tqewygAwAQQEhAEonQ
    NEXT_PUBLIC_API_URL=http://localhost:5062/api
 
+
+### Screenschots
+- home page 
+![alt text](image-2.png)
+- map page
+![alt text](image.png)
+
+- gallery page
+![alt text](image-1.png)
 ### Backend Setup
 
 - Use terminal
